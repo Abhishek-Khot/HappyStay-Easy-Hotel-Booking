@@ -3,7 +3,7 @@
 Wanderlust is a modern and user-friendly platform for booking and listing vacation rentals, similar to Airbnb. It allows users to explore, book, and host stays with ease.
 
 ## Live Demo
-Check out the live version of the project here: [Wanderlust Live](https://wanderlust-yyi6.onrender.com/listings)
+Check out the live version of the project here: [Happy Live](https://wanderlust-yyi6.onrender.com/listings)
 
 ## Features
 - 🏡 **List Properties** – Hosts can add, update, and manage their listings.
