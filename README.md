@@ -1,4 +1,4 @@
-# WanduerLust - Airbnb-Clone website using technology node.js, Express, MongoDB , Middleware etc.
+# HappyStay - Airbnb-Clone website using technology node.js, Express, MongoDB , Middleware etc.
 
 Wanderlust is a modern and user-friendly platform for booking and listing vacation rentals, similar to Airbnb. It allows users to explore, book, and host stays with ease.
 
